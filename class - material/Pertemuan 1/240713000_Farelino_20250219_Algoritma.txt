@@ -1,0 +1,25 @@
+240713000
+Farelino Alexander Kim 
+20250219
+
+Algoritma memasak Mi instan goreng.
+
+Alat dan bahan yang diperlukan:
+Mi instan goreng	1 bungkus
+Air mineral		350 ml
+Panci			1 buah
+Piring			1 buah
+Kompor			1 buah
+
+
+
+1. Letakan panci diatas kompor dan isi Panci dengan 350ml Air.
+2. Nyalakan kompor dan tunggu sampai air mendidih.
+3. Buka kemasan mi, dan masukan mi ke dalam air mendidih.
+4. Tunggu selama 3 menit.
+5. Matikan Kompor dan tiriskan mi.
+6. Siapkan piring dan pindahkan mi ke atas piring.
+7. Tuangkan bumbu mi.
+8. Aduk sampai bumbu merata.
+
+Mi instan goreng siap disajikan.

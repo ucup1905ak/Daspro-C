@@ -1,0 +1,19 @@
+TARGET = main.exe 
+
+CC = "C:/Program Files/gcc/bin/gcc.exe"
+
+SRC = main.c
+
+FLAGS = -o
+
+
+all: ${TARGET} run 
+
+${TARGET}: ${SRC}
+	${CC} ${FLAGS} ${TARGET} ${SRC} 
+
+clean:
+	del ${TARGET}.exe
+
+run: 
+	.\${TARGET}.exe
