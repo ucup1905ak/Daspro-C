@@ -15,11 +15,11 @@ that demonstrate progressive learning in C programming.
 
 
 ##### Author:
-Name: Farelino Alexander Kim
-Student ID: 240713000
-Course: Dasar Pemrograman C
-Type: Praktikum Collection
-Final Grade: A
+- Name: Farelino Alexander Kim
+- Student ID: 240713000
+- Course: Dasar Pemrograman C
+- Type: Praktikum Collection
+- Final Grade: A
 
 
 
