@@ -1,8 +1,6 @@
 # Daspro-C
 
-
-
-This repository contains **all praktikum assignments completed throughout the second semester*
+This repository contains **all praktikum assignments completed throughout the second semester**
 
 for the **Dasar Pemrograman C (Basic C Programming)** course.
 
@@ -18,6 +16,14 @@ that demonstrate progressive learning in C programming.
 I also have a repo for PNC here if you want to check it out:
 
 https://github.com/ucup1905ak/YENGI-YOLU
+
+##### Author:
+- Name: Farelino Alexander Kim
+- Student ID: 240713000
+- Course: Dasar Pemrograman C
+- Type: Praktikum Collection
+- Final Grade: A
+
 
 
 ## Notes
